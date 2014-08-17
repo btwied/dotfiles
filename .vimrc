@@ -1,4 +1,4 @@
-set lines=60 columns=84
+set lines=61 columns=84
 au BufRead,BufNewFile *py,*pyw set tabstop=4
 au BufRead,BufNewFile *.py,*pyw set shiftwidth=4
 au BufRead,BufNewFile *.py,*.pyw set noexpandtab
